@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b673eea-ec90-44ac-8e27-b7600d544fbd" name="Changes" comment="Linea Base del proyecto">
-      <change beforePath="$PROJECT_DIR$/Ejemploo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo1.py" afterDir="false" />
+    <list default="true" id="3b673eea-ec90-44ac-8e27-b7600d544fbd" name="Changes" comment="Modificacion ejercicio 01">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemploo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemploo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +15,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jpaytan &lt;72503013@continental.edu.pe&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="refactorizar_ej01" />
@@ -32,6 +39,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Ejemploo1.executor": "Run",
+    "Python.Ejemploo2.executor": "Run",
+    "Python.Ejemploo3.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -92,11 +101,37 @@
       <option name="project" value="LOCAL" />
       <updated>1725910412452</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Modificacion ejercicio 01">
+      <option name="closed" value="true" />
+      <created>1725911619293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725911619293</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Modificacion ejercicio 01">
+      <option name="closed" value="true" />
+      <created>1725911828848</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725911828848</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Modificacion ejercicio 01">
+      <option name="closed" value="true" />
+      <created>1725911856059</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725911856059</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Linea Base del proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linea Base del proyecto" />
+    <MESSAGE value="Modificacion ejercicio" />
+    <MESSAGE value="Modificacion ejercicio 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modificacion ejercicio 01" />
   </component>
 </project>
